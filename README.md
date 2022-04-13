@@ -15,7 +15,7 @@ var languages = new [] {
   "TypeScript", // Frontend developer, using Angular.
   "C", // Most of undergraduate students should have learned.
   "python", // Most of undergraduate students should have learned.
-  "Visual BASIC", // My first developing language
+  "Visual BASIC", // My first programming language.
   "C++", // Most of undergraduate students should have learned, but too difficult.
   "Java", // Most of undergraduate students should have learned, but I dislike this.
   "JavaScript" // Hardly used, but I did learn that ... 
