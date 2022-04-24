@@ -6,12 +6,7 @@
 <img align="center" src="https://github.com/FerdinandSukhoi/FerdinandSukhoi/raw/main/img/XuSheng+.JPG"/>
 </p>
 
-
-
 ## Program.cs
-
-<div style="width: 10px;"></div>
-<a><img align="right" src="https://github.com/FerdinandSukhoi/FerdinandSukhoi/raw/main/img/ilovecsharp.png"/></a>
 
 ```c#
 using System;
@@ -42,6 +37,8 @@ var fieldsOfWork = new [] {
 
 Console.WriteLine("Hello, my friends!");
 ```
+
+<p align="center"><a><img align="center" src="https://github.com/FerdinandSukhoi/FerdinandSukhoi/raw/main/img/ilovecsharp.png"/></a></p>
 
 ## Major Projects
 
