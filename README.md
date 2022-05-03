@@ -64,10 +64,6 @@ Console.WriteLine("Hello, my friends!");
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerdinandSukhoi&layout=compact"/>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plastic-Metal&layout=compact"/>
-</p>
-
 ## My Stats
 
 <p align="center">
