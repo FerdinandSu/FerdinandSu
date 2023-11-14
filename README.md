@@ -3,7 +3,7 @@
 <div style="width: 10px;"></div>
 
 <p align="center">
-<img align="center" src="https://github.com/FerdinandSukhoi/FerdinandSukhoi/raw/main/img/WooHoll.JPG"/>
+<img align="center" src="https://github.com/FerdinandSukhoi/FerdinandSukhoi/blob/main/img/WooHoll.png?raw=true"/>
 </p>
 
 
