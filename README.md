@@ -3,8 +3,9 @@
 <div style="width: 10px;"></div>
 
 <p align="center">
-<img align="center" src="https://github.com/FerdinandSukhoi/FerdinandSukhoi/raw/main/img/XuSheng+.JPG"/>
+<img align="center" src="https://github.com/FerdinandSukhoi/FerdinandSukhoi/raw/main/img/WooHoll.JPG"/>
 </p>
+
 
 ## Program.cs
 
@@ -31,7 +32,7 @@ var languages = new [] {
 var favoriteLanguage = languages.First(); // C# is the best!
 var fieldsOfWork = new [] {
   "Service Computing", // My director's major.
-  "Distributed System", // Future.
+  "Distributed System & Metaverse", // Future.
   "NLP" // My undergraduate major.
 };
 
@@ -44,12 +45,13 @@ Console.WriteLine("Hello, my friends!");
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HIT-ReFreSH&repo=AspNet.Security.OAuth.Providers"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HIT-ReFreSH&repo=GloVeWrapper"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HIT-ReFreSH&repo=HitGeneralServices"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Plastic-Metal&repo=MobileSuit"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HIT-ReFreSH&repo=WebLedger"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Plastic-Metal&repo=JMobileSuitLite"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FerdinandSukhoi&repo=PAFCA"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HIT-ReFreSH&repo=ScheduleServer"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Plastic-Metal&repo=PyMobileSuit"/>
 </p>
+
 
 ## Languages
 
@@ -64,13 +66,8 @@ Console.WriteLine("Hello, my friends!");
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerdinandSukhoi&layout=compact"/>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plastic-Metal&layout=compact"/>
-</p>
-
 ## My Stats
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=FerdinandSukhoi&show_icons=true"/>
 </p>
-
