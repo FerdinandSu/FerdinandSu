@@ -1,9 +1,9 @@
-# Ferdinand Sukhoi
+# Ferdinand Su
 
 <div style="width: 10px;"></div>
 
 <p align="center">
-<img align="center" src="https://github.com/FerdinandSukhoi/FerdinandSukhoi/blob/main/img/WooHoll.png?raw=true"/>
+<img align="center" src="https://github.com/FerdinandSu/FerdinandSu/blob/main/img/WooHoll.png?raw=true"/>
 </p>
 
 
@@ -13,7 +13,7 @@
 using System;
 using System.Linq;
 
-namespace FerdinandSukhoi;
+namespace FerdinandSu;
 
 var summary = 
     @"Undergraduate student in an 'Institute of Technology' 
@@ -39,7 +39,7 @@ var fieldsOfWork = new [] {
 Console.WriteLine("Hello, my friends!");
 ```
 
-<p align="center"><a><img align="center" src="https://github.com/FerdinandSukhoi/FerdinandSukhoi/raw/main/img/ilovecsharp.png"/></a></p>
+<p align="center"><a><img align="center" src="https://github.com/FerdinandSu/FerdinandSu/raw/main/img/ilovecsharp.png"/></a></p>
 
 ## Major Projects
 
@@ -63,11 +63,11 @@ Console.WriteLine("Hello, my friends!");
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerdinandSukhoi&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerdinandSu&layout=compact"/>
 </p>
 
 ## My Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FerdinandSukhoi&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=FerdinandSu&show_icons=true"/>
 </p>
